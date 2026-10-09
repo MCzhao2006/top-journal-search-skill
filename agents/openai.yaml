@@ -1,0 +1,4 @@
+interface:
+  display_name: "Top Journal Search"
+  short_description: "Search and verify Nature, Science, Lancet, NEJM, JAMA, Cell, and PNAS."
+  brand_color: "#2B579A"
